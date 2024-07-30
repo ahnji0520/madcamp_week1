@@ -24,7 +24,7 @@ KAIST 전산학부 19학번 김동연 <a href="https://github.com/doongyeon" tar
 <img src="https://github.com/doongyeon/madcamp_week1/assets/161582130/abc123ba-8268-4fdb-a5fb-60a6c7778f8b" width="500"/>
 <img src="https://github.com/doongyeon/madcamp_week1/assets/161582130/0ea0f0fc-dd9a-4ffe-8bc8-8237a5bad747" width="500"/>
 
-- 앱을 실행시에 2개의 `splash` 화면을 이용해 애니메이션 효과를 주었습니다.
+- 앱 실행시에 2개의 `splash` 화면을 이용해 애니메이션 효과를 주었습니다.
 - `TabLayout` 과 `viewpager2` 를 이용해 3가지 탭을 구성했습니다.
 
 ### TAB1: 연락처
